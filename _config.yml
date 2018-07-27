@@ -2,7 +2,7 @@ locale: "ko"
 title: "DevHwan"
 url: "https://devhwan.github.io"
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 
 encoding: "utf-8"
 
