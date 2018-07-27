@@ -1,3 +1,0 @@
-# DevHwan
-
-Hello, World!
