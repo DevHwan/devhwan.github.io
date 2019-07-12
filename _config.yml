@@ -1,8 +1,10 @@
-locale: "ko"
-title: "DevHwan"
+locale: "ko-KR"
+title: "DevHwan's Blog"
 url: "https://devhwan.github.io"
+dsecription: "DevHwan's Blog"
 
-theme: jekyll-theme-cayman
+remote_theme: minimal-mistakes
+minimal_mistakes_skin: "default"
 
 encoding: "utf-8"
 
